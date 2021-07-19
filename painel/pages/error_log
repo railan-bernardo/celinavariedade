@@ -1,0 +1,4 @@
+[16-Feb-2021 18:36:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Painel' not found in /home/rqualityinspecoe/public_html/painel/pages/adicionar-foto-servico.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rqualityinspecoe/public_html/painel/pages/adicionar-foto-servico.php on line 6
